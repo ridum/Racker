@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ridum/Racker/issues"
   },
-  "homepage": "https://github.com/ridum/Racker#readme"
+  "homepage": "https://github.com/ridum/Racker#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
